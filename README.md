@@ -1,6 +1,8 @@
 # Features & Changes
 
-This is a **dummy repository** for suggesting and tracking **new features, improvements, and balance changes** for the **SAES:RPG MTA** server.
+This is a **dummy repository** for suggesting and tracking **new features, improvements, and balance changes** for the **SAES:RPG MTA** server only!
+
+If you wish to report a bug or issue, please do it here: https://github.com/saesrpg/issues
 
 ## 💡 Purpose
 This repo allows players and developers to:
